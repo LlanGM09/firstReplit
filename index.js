@@ -1,4 +1,4 @@
 import {User} from './User.js'
 
-const enrique = new User('Enrique', 'Vergara')
-console.log(enrique)
+const LlanCarlos = new User('Llan Carlos', 'Gutierrez')
+console.log(LlanCarlos)
